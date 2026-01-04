@@ -16,9 +16,7 @@ Open `http://localhost:5173`
 
 ## ✏️ Customize
 
-### 1. Birthday Date ⏰
-
-**File:** `src/components/Countdown.jsx` (Line 21)
+### 1. 05 / 01 / 200Messagesrc/components/Countdown.jsx` (Line 21)
 
 ```javascript
 const targetDate = new Date("2025-12-18T00:00:00");
@@ -65,7 +63,52 @@ const targetDate = new Date("2025-12-25T12:00:00");
 
 ---
 
-### 2. Names & Message
+### -- dear shristi Happy Birthday to you…
+But honestly, these two words feel too small for someone as important as you are in my life. Still, today is your day, and I want every word I write to wrap you in warmth, love, respect, and gratitude.
+From the moment you came into my life, something changed inside me. I don’t know how to explain it properly, but the world started feeling a little lighter, smiles became easier, and even the hard days didn’t feel so heavy anymore. You didn’t just become my best friend — you became my safe place, my comfort, my calm, and sometimes even my strength when mine was missing.
+On your birthday, I don’t just celebrate the day you were born.
+I celebrate you — your heart, your kindness, your laughter, your emotions, your presence, and the way you exist so beautifully without even trying.
+You are the kind of person who doesn’t need to be loud to be powerful. Your words heal, your silence understands, and your presence alone makes everything feel okay. There are people who enter our lives like a season… and then there are people like you, who become a part of our soul. You are not replaceable. You never were, and you never will be.
+I want you to know something very important today:
+You matter.
+Your feelings matter.
+Your dreams matter.
+Your tears matter.
+And you matter — more than you probably realize.
+You have this rare ability to care deeply in a world that is slowly forgetting how to feel. You love with honesty, you listen with patience, and you stand by people even when it’s not easy. That kind of heart is precious, and I hope you never let this world make you hard or cold. Stay soft. Stay kind. Stay real — because that’s your superpower.
+Sometimes I wish you could see yourself the way I see you.
+If you did, you’d realize how special you truly are.
+You are strong, even on days when you feel weak.
+You are beautiful, even on days when you doubt yourself.
+You are enough, even when you feel like you’re not.
+Life hasn’t always been gentle with you, I know that. You’ve faced things you didn’t deserve, felt pain you never asked for, and stayed quiet about struggles that would have broken many others. Yet, here you are — still standing, still smiling, still caring. That alone makes you incredible.
+On this birthday, I pray that life starts being kinder to you.
+I pray that your worries slowly fade.
+I pray that your dreams find their way to reality.
+I pray that happiness chooses you again and again.
+And I pray that whenever you feel lost, you always find your way back to yourself.
+May this year bring you peace — the kind that calms your mind at night.
+May it bring you love — the kind that doesn’t hurt or confuse.
+May it bring you success — the kind that feels fulfilling, not exhausting.
+And may it bring you moments so beautiful that you forget every pain you’ve ever carried.
+Thank you…
+Thank you for being there when I needed someone.
+Thank you for listening without judging.
+Thank you for understanding without asking too many questions.
+Thank you for staying, even when it would’ve been easier to leave.
+Thank you for choosing me as friend 🥱ouou have no idea how much that means to me.
+Some memories don’t fade, and some people don’t leave your heart — no matter how much time passes or how much life changes. You are one of those people. No matter where life takes us, a part of my heart will always belong to you.
+I hope you never forget how loved you are.
+I hope you never forget how strong you are.
+I hope you never forget how special you are.
+And when life gets tough — because it sometimes does — I hope you remember this message. I hope you remember that there is someone who believes in you, supports you, and silently wishes the best for you every single day.
+Today, smile a little more.
+Laugh a little louder.
+Dream a little bigger.
+And believe a little stronger.
+Because the world is better with you in it.
+Happy Birthday,januu 🪬🎀
+May your heart always stay warm, your soul stay gentle, and your life be filled with moments that make you feel truly alive.
 
 **File:** `src/components/MessageCard.jsx` (Lines 17-28)
 
@@ -79,7 +122,7 @@ const message = `Your message here...`;
 
 ### 3. Photos
 
-Add 6 photos to `public/images/` named: `pic1.jpg` to `pic6.jpg`
+
 
 ---
 
